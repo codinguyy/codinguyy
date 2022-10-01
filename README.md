@@ -1,7 +1,6 @@
 # 💫 About Me:
 Im an Android Developer.
 
-Other used libraries:
 
 # 💻 Android Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
