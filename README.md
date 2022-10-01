@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**codinguyy/codinguyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 Im an Android Developer
 
@@ -21,4 +14,3 @@ Im an Android Developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codinguyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
