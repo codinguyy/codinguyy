@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m an Android Developer and diving deeper into new technologies.
+I am - an Android Developer
+- like to dive deeper into new technologies
+- interested in solving code puzzles via Algoexpert
+
 
 
 # 💻 Android Tech Stack:
