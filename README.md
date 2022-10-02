@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im an Android Developer.
+I’m currently working on my Skills.
+🌱 I’m currently learning Android Development
 
 # 💻 Android Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
