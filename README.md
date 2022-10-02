@@ -1,6 +1,7 @@
 # 💫 About Me:
 I’m an Android Developer and diving deeper into new technologies.
 
+
 # 💻 Android Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Graphiql](https://img.shields.io/badge/graphiql-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
