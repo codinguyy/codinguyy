@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am - an Android Developer
+I am an Android Developer
 - like to dive deeper into new technologies
 - interested in solving code puzzles via Algoexpert
 
