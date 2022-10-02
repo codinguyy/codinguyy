@@ -1,7 +1,6 @@
 # 💫 About Me:
 Im an Android Developer.
 
-
 # 💻 Android Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Graphiql](https://img.shields.io/badge/graphiql-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
@@ -15,6 +14,8 @@ Im an Android Developer.
 ![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 ![Play Console](https://img.shields.io/badge/playconsole-%230095D5.svg?style=for-the-badge&logo=playconsole&logoColor=white) 
 ![Jetpack Compose](https://img.shields.io/badge/jetpackcompose-%23ED8B00.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/room-%23ED8B00.svg?style=for-the-badge&logo=room&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23ED8B00.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 
 # 💻 Tech Stack:
