@@ -1,9 +1,6 @@
 # 💫 About Me:
 I am an Android Developer
 - like to dive deeper into new technologies
-- interested in solving code puzzles via Algoexpert
-
-
 
 # 💻 Android Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
