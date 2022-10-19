@@ -2,6 +2,9 @@
 I am an Android Developer
 - like to dive deeper into new technologies
 
+My last hobby projects:
+- https://play.google.com/store/apps/details?id=com.codingguy.mycalculator
+
 # 💻 Android Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Graphiql](https://img.shields.io/badge/graphiql-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
