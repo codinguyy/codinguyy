@@ -20,6 +20,7 @@ I am an Android Developer
 
 
 # 💻 Tech Stack:
+![Java](https://img.shields.io/badge/ChromeDevTools-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
