@@ -17,6 +17,7 @@ I am an Android Developer
 ![Jetpack Compose](https://img.shields.io/badge/jetpackcompose-%23ED8B00.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Room](https://img.shields.io/badge/room-%23ED8B00.svg?style=for-the-badge&logo=room&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23ED8B00.svg?style=for-the-badge&logo=sql&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxKotlin-%23ED8B00.svg?style=for-the-badge&logo=rxkotlin&logoColor=white)
 
 
 # 💻 Tech Stack:
