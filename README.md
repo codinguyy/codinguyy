@@ -5,6 +5,7 @@ I'm an Android Developer
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Graphiql](https://img.shields.io/badge/graphiql-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
 ![Altair](https://img.shields.io/badge/altair-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
+![Ktor](https://img.shields.io/badge/ktor-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
 ![Dagger Hilt](https://img.shields.io/badge/dagger-hilt-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
 ![Retrofit](https://img.shields.io/badge/retrofit-%20470137.svg?style=for-the-badge&logo=retrofit&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white) 
