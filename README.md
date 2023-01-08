@@ -1,8 +1,7 @@
 # 💫 About Me:
-I am an Android Developer
-- like to dive deeper into new technologies
+I'm an Android Developer
 
-# 💻 Android Tech Stack:
+# 💻 Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Graphiql](https://img.shields.io/badge/graphiql-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
 ![Retrofit](https://img.shields.io/badge/retrofit-%20470137.svg?style=for-the-badge&logo=retrofit&logoColor=white) 
@@ -18,9 +17,6 @@ I am an Android Developer
 ![Room](https://img.shields.io/badge/room-%23ED8B00.svg?style=for-the-badge&logo=room&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23ED8B00.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![RxJava](https://img.shields.io/badge/RxKotlin-%23ED8B00.svg?style=for-the-badge&logo=rxkotlin&logoColor=white)
-
-
-# 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/ChromeDevTools-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
