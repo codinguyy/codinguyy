@@ -4,6 +4,8 @@ I'm an Android Developer
 # 💻 Tech Stack:
 ![Graphql](https://img.shields.io/badge/graphql-%23ED8B00.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Graphiql](https://img.shields.io/badge/graphiql-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
+![Altair](https://img.shields.io/badge/altair-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
+![Dagger Hilt](https://img.shields.io/badge/dagger-hilt-%230095D5.svg?style=for-the-badge&logo=graphiql&logoColor=white) 
 ![Retrofit](https://img.shields.io/badge/retrofit-%20470137.svg?style=for-the-badge&logo=retrofit&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Charles](https://img.shields.io/badge/charles-%23172BF4.svg?style=for-the-badge&logo=charles&logoColor=white)
@@ -17,7 +19,7 @@ I'm an Android Developer
 ![Room](https://img.shields.io/badge/room-%23ED8B00.svg?style=for-the-badge&logo=room&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23ED8B00.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![RxJava](https://img.shields.io/badge/RxKotlin-%23ED8B00.svg?style=for-the-badge&logo=rxkotlin&logoColor=white)
-![Java](https://img.shields.io/badge/ChromeDevTools-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![ChromeDevTools](https://img.shields.io/badge/ChromeDevTools-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
